@@ -1,16 +1,37 @@
-## Hi there 👋
+# tru3-l1ght
 
-<!--
-**tru3-l1ght/tru3-l1ght** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student @ **MUN**  
+Founder of **LARP FS**
 
-Here are some ideas to get you started:
+I build stuff with software, hardware, and whatever else I can get my hands on.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## A sexy site 4 u
+
+[aynursun.com](https://aynursun.com/)
+
+---
+
+## What I know
+
+### Languages
+
+- Python
+- Rust
+- C / C++
+- HTML / CSS / JS / TS
+
+### Hardware
+
+- STM32
+- Raspberry Pi 4
+- Arduino
+
+---
+
+## I do free labour for
+
+### Phoenix Aerospace
+
+Working with the engineering design team.
