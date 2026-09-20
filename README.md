@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td width="40%" align="center">
-      <img src="assets/banner.gif" width="250" alt="tru3-l1ght"/>
+      <img src="tru3-l1ght.jpg" width="250" alt="tru3-l1ght"/>
     </td>
     <td width="60%">
       <h3>tru3-l1ght</h3>
